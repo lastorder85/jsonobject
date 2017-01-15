@@ -1,0 +1,7 @@
+#Sun Jan 15 13:37:12 ICT 2017
+base.0=/Users/ittichote/AndroidStudioProjects/jsonobject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c8c68712c55ba939c15118ec8234b27d14216d66
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/ittichote/AndroidStudioProjects/jsonobject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b287bfa7814dbbcfca9e9595c6e5fbee269835ca/classes.dex
+base.1=/Users/ittichote/AndroidStudioProjects/jsonobject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b287bfa7814dbbcfca9e9595c6e5fbee269835ca
+file.0=/Users/ittichote/AndroidStudioProjects/jsonobject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c8c68712c55ba939c15118ec8234b27d14216d66/classes.dex
